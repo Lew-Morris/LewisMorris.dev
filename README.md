@@ -1,2 +1,2 @@
-# portfolio
-This is a portfolio wesbite that I am making for my Hons project
+# Portfolio
+This is a portfolio wesbite that I am making to learn JavaScript :)
