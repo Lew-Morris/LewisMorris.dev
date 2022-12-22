@@ -1,2 +1,3 @@
-# Portfolio
-This is a portfolio wesbite that I am making to learn JavaScript :)
+# My Website
+
+This is being used to host my website. It currently has my CV and links to socials
