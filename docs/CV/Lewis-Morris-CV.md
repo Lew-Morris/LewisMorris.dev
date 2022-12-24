@@ -9,10 +9,10 @@
 
 <table>
 <tr>
-<th><a style="font-size:16px" href="https://lewismorris.dev/" target="_blank" rel="nofollow noreferrer"> <img src="images/Website-logo.png" height=16 width=16 alt="website logo"> Website </a></th>
-<th><a style="font-size:16px" href="https://www.linkedin.com/in/lewis-morris/" target="_blank" rel="nofollow noreferrer"> <img src="images/Linked-In.png" height=16 width=16 alt="linkedin logo"> LinkedIn </a></th>
-<th><a style="font-size:16px" href="https://twitter.com/lew___" target="_blank" rel="nofollow noreferrer"> <img src="images/Twitter icon - circle - blue.png" height=16 width=16 alt="twitter logo"> Twitter </a></th>
-<th><a style="font-size:16px" href="https://lewismorris.dev/" target="_blank" rel="nofollow noreferrer"> <img src="images/github-dark.png" height=16 width=16 alt="github logo"> GitHub </a></th>
+<th><a style="font-size:16px" href="https://lewismorris.dev/" target="_blank" rel="nofollow noreferrer"> <img src="icons/Website-logo.png" height=16 width=16 alt="website logo"> Website </a></th>
+<th><a style="font-size:16px" href="https://www.linkedin.com/in/lewis-morris/" target="_blank" rel="nofollow noreferrer"> <img src="icons/Linked-In.png" height=16 width=16 alt="linkedin logo"> LinkedIn </a></th>
+<th><a style="font-size:16px" href="https://twitter.com/lew___" target="_blank" rel="nofollow noreferrer"> <img src="icons/Twitter icon - circle - blue.png" height=16 width=16 alt="twitter logo"> Twitter </a></th>
+<th><a style="font-size:16px" href="https://lewismorris.dev/" target="_blank" rel="nofollow noreferrer"> <img src="icons/github-dark.png" height=16 width=16 alt="github logo"> GitHub </a></th>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ _September 2016 to July 2020_</br>
 <th> Technical Skills </th>
 <th> Soft Skills </th>
 </tr>
-<tr>
+<tr valign="top">
 <td>
 
 * Python
